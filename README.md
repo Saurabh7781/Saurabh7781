@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Saurabh Sathe</h1>
-<h3 align="center">A passionate fullstack developer.</h3>
+<h3 align="center">A fullstack Java developer.</h3>
 
 <h3 align="left">Connect with me: www.linkedin.com/in/saurabh-sathe-86b0b4220 </h3>
 <p align="left">
