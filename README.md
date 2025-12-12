@@ -7,12 +7,12 @@
 
 ---
 
-### 🚀 About Me
-- 🧑‍💻 Full-stack developer with hands-on experience in **Java, Spring Boot, Angular, and RESTful APIs**
-- ☁️ Familiar with **Azure Cloud**, CI/CD pipelines, and containerized deployments  
-- 📦 Strong background in building enterprise-level applications and solving real-world problems  
-- 🔍 Always exploring new technologies and enhancing system performance & design  
-- 🎯 Focused on writing **clean, efficient, and maintainable code**
+###  About Me
+-  Full-stack developer with hands-on experience in **Java, Spring Boot, Angular, and RESTful APIs**
+-  Familiar with **Azure Cloud**, CI/CD pipelines, and containerized deployments  
+-  Strong background in building enterprise-level applications and solving real-world problems  
+-  Always exploring new technologies and enhancing system performance & design  
+-  Focused on writing **clean, efficient, and maintainable code**
 
 ---
 
@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Languages & Tools  
+###  Languages & Tools  
 <p align="left">
   <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 GitHub Stats (Optional — Add if you want)
+###  GitHub Stats ()
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SaurabhSathe&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSathe&layout=compact&theme=tokyonight" height="170" />
@@ -48,6 +48,6 @@
 
 ---
 
-### 🤝 Let’s Build Something Great Together!
+###  Let’s Build Something Great Together!
 If you like my work or want to collaborate on any project, feel free to reach out.
 
